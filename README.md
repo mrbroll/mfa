@@ -20,7 +20,7 @@ For Example:
 ```
 __NOTE:__ You will want to init a new pass store with a different gpg key, protected by a different password, for the MFA directory.
 
-This also requires storing account aliases in a file under `$HOME/.mfa/aliases`. The format of this file is:
+This also requires storing account aliases in a file under `$HOME/.config/mfa/aliases`. The format of this file is:
 ```
 ALIAS ISSUER ACCOUNT
 ...

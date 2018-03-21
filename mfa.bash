@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-MFA_HOME=$HOME/.mfa
+MFA_HOME=$HOME/.config/mfa
 ALIAS_FILE=$MFA_HOME/aliases
 
 USAGE="Get tokens for mfa or qr codes to sync mfa devices.
