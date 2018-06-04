@@ -1,6 +1,6 @@
 # MFA
 
-CLI wrapper for [authenticator](https://git.daplie.com/Daplie/authenticator-cli) for integration with GNU Pass.
+CLI wrapper for [authenticator](https://git.coolaj86.com/coolaj86/authenticator-cli.js) for integration with GNU Pass.
 
 ## Setup
 
